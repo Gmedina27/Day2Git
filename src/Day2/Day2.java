@@ -8,6 +8,8 @@ public class Day2 {
 		System.out.println("Pushing code...");
 		System.out.println("Pushing 2nd time..");
 		System.out.println("Pushing 3rd time...");
+		
+		String firstName = "John"; 
  	}
 /**
 	This is coming from remote
