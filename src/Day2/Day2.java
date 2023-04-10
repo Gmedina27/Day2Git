@@ -5,7 +5,9 @@ public class Day2 {
 	
 	public static void main(String[] args) {
 		
-		System.out.println(2+2);
-	}
+		System.out.println("Pushing code...");
+		System.out.println("Pushing 2nd time..");
+		System.out.println("Pushing 3rd time...");
+ 	}
 
 }
