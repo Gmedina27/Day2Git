@@ -10,6 +10,9 @@ public class Day2 {
 		System.out.println("Pushing 3rd time...");
 		
 		String firstName = "John"; 
+		
+		int age = 10; 
+		
  	}
 /**
 	This is coming from remote
